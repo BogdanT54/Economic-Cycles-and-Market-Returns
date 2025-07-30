@@ -62,7 +62,7 @@ Technical analysis:
 - Bitcoin exhibits extreme volatility with regime shifts linked to liquidity and sentiment shocks.
 - Oil prices follow pro-cyclical patterns but are highly exposed to geopolitical shocks.
 
-## **📈 Conclusions**
+### **📈 Conclusions**
 
 The integrated fundamental–technical framework shows that cycle-aware investment strategies can significantly improve risk-adjusted returns. Monitoring macroeconomic indicators alongside volatility regimes of financial assets supports timely portfolio adjustments.
 
